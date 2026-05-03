@@ -1,0 +1,11 @@
+Pastimes Logins
+
+Enjoy **Pastimes**! 🎊 Here's a quick reminder of your login credentials:
+
+| Account | Email | Password |
+|---|---|---|
+| Admin | `admin@pastimes.co.za` | `Admin@123` |
+| Demo User 1 | `thrift@pastimes.co.za` | `Demo@123` |
+| Demo User 2 | `vintage@pastimes.co.za` | `Demo@123` |
+
+Navigate to **`http://localhost/Pastimes`** to explore the site!

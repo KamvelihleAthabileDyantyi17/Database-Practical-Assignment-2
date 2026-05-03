@@ -1,0 +1,5 @@
+ERD
+KAYAKS → KAYAK_UPGRADES (one-to-many): A single kayak can have many upgrade records over its lifetime.
+CUSTOMERS → KAYAK_UPGRADES (one-to-many): A single customer can request multiple upgrade jobs.
+UPGRADES → KAYAK_UPGRADES (one-to-many): A single upgrade type (e.g. "Hull repair") can be applied across many kayak upgrade records.
+KAYAK_UPGRADES is the central junction table that ties everything together — it records which kayak, which customer, and which upgrade type are involved in each service transaction, along with the date and amount billed.
